@@ -1,19 +1,25 @@
-Random Cat v1.0 pulls random cat photos from thecatapi.com 
-and displays it in a plain html page. Since thecatapi.com
-doesn't seem to provide API key any more, I used YQL to 
-access the photo urls.
+Random Cat v2.0 pulls random cat photos from thecatapi.com 
+using YQL and displays them in a page designed with Twitter
+Bootstrap.
+
+Updates: 
+1) Nicer looking interface than v1.0
+2) Bug fixed where thecapapi.com gives a link that denies
+access
 
 Random Cat has been a great procrastination tool for me. 
 Making it was fun. Using it every day for a few minutes as
 a coding break has become my habit. People who have used
-it tell me it is hard to stop clicking for more cats.
+it tell me it is hard to stop clicking for more cats. I 
+hope you will like it, too!
 
 Random Cat currently lives on http://cs.oberlin.edu/~szheng
 
 Future plans:
-Random Cat v2.0 should have a nicer interface. 
 Random Cat v3.0 should be able to actually fetch cat photos
 randomly from a website, instead of asking for one from
-thecatapi.com.
-Random Cat deserves its own website, and not just a personal 
-webpage provided by my school's computer science department.
+thecatapi.com. It should probably work with the Flickr API.
+
+Also, Random Cat deserves its own website, and not just a 
+personal webpage provided by my school's computer science 
+department.
